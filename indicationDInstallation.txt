@@ -1,0 +1,7 @@
+Comment installer le projet et l'exécuter
+
+Pour installer le projet sur votre ordinateur vous devrez:
+- cloner de repository : git clone URL remote
+- Ouvrir le dossier dans l'éditeur de code que vous avez
+- lancer le serveur avec la commande "npm run dev" dans le terminal
+- entrer l'url indiquée dans le terminal (localhost:8080)
